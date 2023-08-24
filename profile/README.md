@@ -72,7 +72,9 @@ To be added
 
 ### Data Acquisition (DA)
 
-Explain the Data Acquisition module of your project. Describe the process of acquiring data, any specific requirements or formats, and any tools or methods used for data acquisition.
+The Data Acquisition module of the CHoRUS data generation project oversees the process of data generation from all data contributing sites to CHoRUS. This site describes the process of acquiring data, any specific requirements or formats, and any tools or methods used for data acquisition, and tracking data acquisition. Standard operating procedures are offered to guide data acquisition.
+
+In addition to discussions pertaining to specific aspects of the data acquisition process, the DA office hour, held every Friday at 2 pm is the forum of choice to share information related to DA.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### License
