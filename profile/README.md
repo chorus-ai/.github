@@ -74,7 +74,7 @@ The Standards Module provides centralized support for sites’ conversion of the
 
 The Data Acquisition module of the CHoRUS data generation project oversees the process of data generation from all data contributing sites to CHoRUS. This site describes the process of acquiring data, any specific requirements or formats, and any tools or methods used for data acquisition, and tracking data acquisition. Standard operating procedures are offered to guide data acquisition.
 
-- [Standard operating procedure](https://github.com/chorus-ai/data_acq_SOP)
+- [Online Documentation Site](https://chorus-ai.github.io/data_acq_SOP/)
 - [Discussions](https://github.com/chorus-ai/data_acq_SOP/discussions)
   
 In addition to discussions pertaining to specific aspects of the data acquisition process, the DA office hour, held every Friday at 2 pm is the forum of choice to share information related to DA.
